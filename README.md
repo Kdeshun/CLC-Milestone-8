@@ -1,9 +1,7 @@
 # Milestone For CST-339
  **Group Members:**
- - Noah Funderburgh
- - Arleth Martinez
- - Kevin Bloomquist
- - Michael Melichar
+ - Kaya Nelson
+ - Kelly Miller
 
  ## Project Overview
 Our E-commerce shop is built using spring boot framework, allowing users to browse through different products, create products, and purchase items. The project focuses on learning the features available within the spring boot framework along with hooking up a MySQL database to house the information.
@@ -19,4 +17,4 @@ Our E-commerce shop is built using spring boot framework, allowing users to brow
 - Database: MySQL
 
 ## Video Demonstration
-https://youtu.be/LUPVM7Wp9Fs
+
